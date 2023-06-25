@@ -329,7 +329,15 @@
     ],
     [
       "bdf4dbf7-06db-4fdd-9fa7-3c7d91446a1c",
-      "Sheet 2"
+      "Connector"
+    ],
+    [
+      "da31ea9e-db39-4046-a088-2c523edb2034",
+      "oleds"
+    ],
+    [
+      "3ba3a755-a3af-4eed-9a17-0e29c16b25f2",
+      "Multiplexers"
     ]
   ],
   "text_variables": {}
